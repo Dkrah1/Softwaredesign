@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/bin/Debug/netcoreapp2.1/RomanNumbers.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/bin/Debug/netcoreapp2.1/RomanNumbers.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/bin/Debug/netcoreapp2.1/RomanNumbers.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/bin/Debug/netcoreapp2.1/RomanNumbers.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/bin/Debug/netcoreapp2.1/RomanNumbers.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/obj/Debug/netcoreapp2.1/RomanNumbers.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/obj/Debug/netcoreapp2.1/RomanNumbers.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/obj/Debug/netcoreapp2.1/RomanNumbers.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/obj/Debug/netcoreapp2.1/RomanNumbers.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/obj/Debug/netcoreapp2.1/RomanNumbers.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/RomanNumbers/obj/Debug/netcoreapp2.1/RomanNumbers.pdb
