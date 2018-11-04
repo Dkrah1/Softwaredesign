@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/bin/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/bin/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/bin/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/bin/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/bin/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/obj/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/obj/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/obj/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/obj/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/obj/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/TraceTable_Aufgabe_3/obj/Debug/netcoreapp2.1/TraceTable_Aufgabe_3.pdb
