@@ -10,6 +10,16 @@
                 "${workspaceFolder}/Debugging.csproj"
             ],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Debugging.csproj"
+            ],
+            "problemMatcher": "$msCompile"
         }
     ]
 }
