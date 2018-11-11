@@ -12,7 +12,7 @@ namespace Debugging
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Person root = Familytree.BuildTree();
 
