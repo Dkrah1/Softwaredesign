@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/obj/Debug/netcoreapp2.1/Family_Tree.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/obj/Debug/netcoreapp2.1/Family_Tree.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/obj/Debug/netcoreapp2.1/Family_Tree.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/obj/Debug/netcoreapp2.1/Family_Tree.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/bin/Debug/netcoreapp2.1/Family_Tree.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/bin/Debug/netcoreapp2.1/Family_Tree.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/bin/Debug/netcoreapp2.1/Family_Tree.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/bin/Debug/netcoreapp2.1/Family_Tree.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/bin/Debug/netcoreapp2.1/Family_Tree.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/obj/Debug/netcoreapp2.1/Family_Tree.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Family_Tree/obj/Debug/netcoreapp2.1/Family_Tree.pdb
