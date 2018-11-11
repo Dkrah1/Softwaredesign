@@ -72,13 +72,13 @@ namespace Debugging
 
         public static void UnderTwenty(Person[] personArray)
         {
-            for(int i = 0; i<personArray.Length;i++)
+            for (int i = 0; i < personArray.Length; i++)
             {
-                if(personArray[i].Age >=20) //Ich greife auf die Stelle [i] zu mit den Eigenschaften von Age
+                if (personArray[i].Age >= 20) //Ich greife auf die Stelle [i] zu mit den Eigenschaften von Age
                 {
                     Console.WriteLine(personArray[i].ToString()); //Ich greife auf alle Personen zu die über 20 sind personArray[i] 
                 }                                                 //und ich muss auf die Methode zugreifen die mir die Person ausgibt also ToString()
-                
+
             }
         }
     }
