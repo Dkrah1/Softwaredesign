@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/bin/Debug/netcoreapp2.1/Debugging.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/bin/Debug/netcoreapp2.1/Debugging.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/bin/Debug/netcoreapp2.1/Debugging.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/bin/Debug/netcoreapp2.1/Debugging.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/bin/Debug/netcoreapp2.1/Debugging.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/obj/Debug/netcoreapp2.1/Debugging.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/obj/Debug/netcoreapp2.1/Debugging.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/obj/Debug/netcoreapp2.1/Debugging.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/obj/Debug/netcoreapp2.1/Debugging.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/obj/Debug/netcoreapp2.1/Debugging.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Debugging/obj/Debug/netcoreapp2.1/Debugging.pdb
