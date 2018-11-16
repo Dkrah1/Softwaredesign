@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/bin/Debug/netcoreapp2.1/Reverse.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/bin/Debug/netcoreapp2.1/Reverse.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/bin/Debug/netcoreapp2.1/Reverse.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/bin/Debug/netcoreapp2.1/Reverse.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/bin/Debug/netcoreapp2.1/Reverse.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/obj/Debug/netcoreapp2.1/Reverse.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/obj/Debug/netcoreapp2.1/Reverse.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/obj/Debug/netcoreapp2.1/Reverse.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/obj/Debug/netcoreapp2.1/Reverse.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/obj/Debug/netcoreapp2.1/Reverse.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse/obj/Debug/netcoreapp2.1/Reverse.pdb
