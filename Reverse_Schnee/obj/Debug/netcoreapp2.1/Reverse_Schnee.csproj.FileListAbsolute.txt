@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/bin/Debug/netcoreapp2.1/Reverse_Schnee.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/bin/Debug/netcoreapp2.1/Reverse_Schnee.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/bin/Debug/netcoreapp2.1/Reverse_Schnee.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/bin/Debug/netcoreapp2.1/Reverse_Schnee.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/bin/Debug/netcoreapp2.1/Reverse_Schnee.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/obj/Debug/netcoreapp2.1/Reverse_Schnee.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/obj/Debug/netcoreapp2.1/Reverse_Schnee.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/obj/Debug/netcoreapp2.1/Reverse_Schnee.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/obj/Debug/netcoreapp2.1/Reverse_Schnee.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/obj/Debug/netcoreapp2.1/Reverse_Schnee.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Reverse_Schnee/obj/Debug/netcoreapp2.1/Reverse_Schnee.pdb
