@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/obj/Debug/netcoreapp2.1/Quiz.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/obj/Debug/netcoreapp2.1/Quiz.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/obj/Debug/netcoreapp2.1/Quiz.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/obj/Debug/netcoreapp2.1/Quiz.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/bin/Debug/netcoreapp2.1/Quiz.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/bin/Debug/netcoreapp2.1/Quiz.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/bin/Debug/netcoreapp2.1/Quiz.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/bin/Debug/netcoreapp2.1/Quiz.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/bin/Debug/netcoreapp2.1/Quiz.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/obj/Debug/netcoreapp2.1/Quiz.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz/obj/Debug/netcoreapp2.1/Quiz.pdb
