@@ -7,7 +7,11 @@ namespace Quiz_Cornelius_
         public int questionCount;
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int questionCount = 0;
+            int credits = 0;
+
+            ShowMainOptionsToUser( questionCount,  credits);
+
         }
 
         public static void ShowMainOptionsToUser(int questionCount, int credits)
@@ -34,7 +38,7 @@ namespace Quiz_Cornelius_
             TransferYesNoQuestions(questionCount, credits);
             TransferEstimatedQuestions(questionCount, credits);
             TransferMultipleAnswerQuestion(questionCount, credits);
-            TransferFreetextQuestion(questionCount, credits);
+            TransferFreeTextQuestion(questionCount, credits);
         }
 
         public static void CreateUserQuestion(int questionCount, int credits)
