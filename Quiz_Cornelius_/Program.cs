@@ -14,7 +14,7 @@ namespace Quiz_Cornelius_
 
         }
 
-        public static void ShowMainOptionsToUser(int questionCount, int credits)
+        public static void ShowMainOptionsToUser(int questionCount, int credits) // credits und questionCount sind global deklariert, wieso also immer als Parameter übergeben?
         {
             string mainOptionsTopline = "Was möchtest Du tun?";
             Console.WriteLine(mainOptionsTopline);
@@ -41,7 +41,7 @@ namespace Quiz_Cornelius_
             TransferFreeTextQuestion(questionCount, credits);
         }
 
-        public static void CreateUserQuestion(int questionCount, int credits)
+        public static void CreateUserQuestion(int questionCount, int credits) 
         {
             string quizTypeSelectionTopline = "Welche Art von Quiz möchtest du erstellen?" + credits;
             //Wert muss per Console.ReadLine abgefragt werden.
@@ -52,7 +52,7 @@ namespace Quiz_Cornelius_
         }
 
 
-        public static void TansferStandardQuestions(int questionCount, int credits)
+        public static void TansferStandardQuestions(int questionCount, int credits) // Name entspricht nicht ganz der Aktion Transfer == CheckAnswer?
         {
             int questionCount = 1;
 
@@ -72,11 +72,11 @@ namespace Quiz_Cornelius_
         }
 
         //Bearbeiten
-        public static void TransferYesNoQuestions(int questionCount, int credits)
+        public static void TransferYesNoQuestions(int questionCount, int credits) // Domi, was passiert hier? 0:
         {
             int questionCount = 1;
 
-            switch (questionCount)
+            switch (questionCount) // Wieso hat das switch nur ein case? :c
             {
                 case 1:
 
@@ -92,7 +92,7 @@ namespace Quiz_Cornelius_
 
         }
 
-        public static void TransferEstimatedQuestions(int questionCount, int credits)
+        public static void TransferEstimatedQuestions(int questionCount, int credits) // Same
         {
             int questionCount = 1;
             switch (questionCount)
@@ -108,7 +108,7 @@ namespace Quiz_Cornelius_
             }
         }
 
-        public static void TransferMultipleAnswerQuestion(int questionCount, int credits)
+        public static void TransferMultipleAnswerQuestion(int questionCount, int credits) // Same
         {
             int questionCount = 1;
             switch (questionCount)
@@ -125,7 +125,7 @@ namespace Quiz_Cornelius_
             }
         }
 
-        public static void TransferFreeTextQuestion(int questionCount, int credits)
+        public static void TransferFreeTextQuestion(int questionCount, int credits) // Same
         {
             int questionCount = 1;
             switch (questionCount)
@@ -145,7 +145,7 @@ namespace Quiz_Cornelius_
 
 
 
-        public static string CreateMenu(string topline, string[] options)
+        public static string CreateMenu(string topline, string[] options) // Was ist topline? 0: Aber interessantes Menükonzept
         {
             short curItem = 0, c;
             ConsoleKeyInfo key;
