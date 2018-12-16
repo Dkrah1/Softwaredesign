@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/bin/Debug/netcoreapp2.1/Quiz_Saving.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/bin/Debug/netcoreapp2.1/Quiz_Saving.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/bin/Debug/netcoreapp2.1/Quiz_Saving.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/bin/Debug/netcoreapp2.1/Quiz_Saving.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/bin/Debug/netcoreapp2.1/Quiz_Saving.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/obj/Debug/netcoreapp2.1/Quiz_Saving.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/obj/Debug/netcoreapp2.1/Quiz_Saving.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/obj/Debug/netcoreapp2.1/Quiz_Saving.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/obj/Debug/netcoreapp2.1/Quiz_Saving.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/obj/Debug/netcoreapp2.1/Quiz_Saving.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Quiz_Saving/obj/Debug/netcoreapp2.1/Quiz_Saving.pdb

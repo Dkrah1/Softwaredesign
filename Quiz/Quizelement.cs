@@ -8,7 +8,7 @@ namespace Quiz
 
         public Answer [] answers;
 
-        public Quizelement(string question, Answer[] answers) //Konstrukor
+        public Quizelement(string question, Answer[] answers) //Konstruktor
         {
             this.question = question;
             this.answers = answers;

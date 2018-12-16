@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace Quiz
 {
@@ -18,6 +19,7 @@ namespace Quiz
         public static void GenerateDefaultQuestions()
         {
             Quizelement quiz1 = new Quizelement(
+                
 
                  "Wer war der 1.Bundeskanzler der BRD?",
                 new Answer[] {
@@ -26,7 +28,10 @@ namespace Quiz
                     new Answer( "Konrad Adenauer", true),
                     new Answer( "Angela Merkel", false )
                 }
+                
             );
+            string json = JsonConvert.SerializeObject(quiz1);
+            Console.Write(json);
 
             Quizelement quiz2 = new Quizelement(
                   "In welcher Beziehung stand Hera zu Zeus?",
@@ -44,7 +49,7 @@ namespace Quiz
 
         public static void AddQuestionToPool()
         {
-            Console.Clear();
+            //Console.Clear();
 
             Console.Write("Please enter question: \n> ");
             string addedQuestion = Console.ReadLine();
@@ -68,7 +73,7 @@ namespace Quiz
 
         public static void PlayTheGame(Quizelement quiz)
         {
-            Console.Clear();
+           // Console.Clear();
 
             quiz.showQuestion();
             Console.Write("\nSprich die Antwort und tritt ein: \n>");
@@ -87,7 +92,7 @@ namespace Quiz
 
         public static Boolean getUserInteraction()
         {
-            Console.Clear();
+           // Console.Clear();
 
             Console.Write("Your score: " + score + "\n\n");
             Console.WriteLine("Do you want to answer the question (p) or add a question to the questionpool(a) or quit the game (q)");
@@ -100,7 +105,7 @@ namespace Quiz
                 }
                 else
                 {
-                    Console.Clear();
+                    //Console.Clear();
                     Console.WriteLine("GAME OVER \n Thanks for playing. \n Your score is: " + score);
                     return true;
                 }
@@ -113,7 +118,7 @@ namespace Quiz
             }
             else
             {
-                Console.Clear();
+                //Console.Clear();
                 Console.WriteLine("GAME OVER \n Thanks for playing. \n Your score is: " + score);
                 return true;
             }
