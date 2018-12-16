@@ -17,17 +17,17 @@ namespace Quiz_Saving
         {
             Console.Clear();
             Console.WriteLine(question + "\n" + answers[0] + "\n" + answers[1] + "\n" + answers[2] + "\n" + answers[3] + "\n");
-            Console.WriteLine("Bitte wähle die richtige Antwort: ");
+            Console.WriteLine("Please choose the right answer: ");
             int answerChoice = int.Parse(Console.ReadLine());
 
             if (answerChoice == correct)
             {
-                Console.WriteLine("Korrekt!");
+                Console.WriteLine("Right answer good one!");
                 score += 10;
             }
             else
             {
-                Console.WriteLine("Falsch...");
+                Console.WriteLine("Wrong answer");
             }
             Program.QuizMenu(score);
         }
@@ -44,8 +44,6 @@ namespace Quiz_Saving
 
             System.Xml.Serialization.XmlSerializer z = new System.Xml.Serialization.XmlSerializer(userCorrect.GetType());
             z.Serialize(str, userCorrect);
-
-            //Program p = new Program();
             Program.QuizMenu(score);
         }
     }

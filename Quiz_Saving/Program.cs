@@ -56,15 +56,15 @@ namespace Quiz_Saving
                     break;
                 case 2:
                     QuizMultiple multiple = new QuizMultiple();
-                    multiple.question = "Was ist alles ein Säugetier?";
-                    multiple.answers = new string[] { "1. Wal", "2. Delphin", "3. Spinne", "4. Kuh" };
+                    multiple.question = "How long does the 30-year war last??";
+                    multiple.answers = new string[] { "1. 10950", "2. 30", "3. 4643356", "4. 262800" };
                     multiple.correct = new string[] { "1", "2", "4" };
                     QuizMultiple.ShowQuestionAndCheckIfMultipleIsCorrect(multiple.question, multiple.answers, multiple.correct, score);
                     break;
                 case 3:
                     QuizBinary binary = new QuizBinary();
-                    binary.question = "Ist Berlin die Hauptstadt von Deutschland?";
-                    binary.answer = "Ja";
+                    binary.question = "Is Gandalf a wizard?";
+                    binary.answer = "Yes";
                     QuizBinary.ShowQuestionAndCheckIfBinaryIsCorrect(binary.question, binary.answer, score);
                     break;
                 case 4:
@@ -75,8 +75,8 @@ namespace Quiz_Saving
                     break;
                 case 5:
                     QuizFree free = new QuizFree();
-                    free.question = "Welcher Torwart wird auch Titan genannt?\n";
-                    free.answer = "Oliver Kahn";
+                    free.question = "What does Gandalf say to the Balrok on the bridge of Kazad-dum?\n";
+                    free.answer = "You shall not pass";
                     QuizFree.ShowQuestionAndCheckIfFreeIsCorrect(free.question, free.answer, score);
                     break;
                 default:
@@ -88,7 +88,7 @@ namespace Quiz_Saving
         public static void AddNewQuestion(int score)
         {
             //Console.Clear();
-            Console.WriteLine("Was für eine Frage möchtest Du erstellen? \n\n1. Normales Quiz \n2. Multiple Choice \n3. Ja/Nein Frage \n4. Zahlen raten \n5. Freitextantworten");
+            Console.WriteLine("What question type do you wanna create? \n\n1. Noraml quiz \n2. Multiple Choice \n3. Yes/No \n4. Guess \n5. Free text");
             int questionType = Convert.ToInt32(Console.ReadLine());
 
             switch (questionType)
@@ -109,7 +109,7 @@ namespace Quiz_Saving
                     AddNewFreeQuiz(score);
                     break;
                 default:
-                    Console.WriteLine("Das Programm wird beendet!");
+                    Console.WriteLine("The program quit!");
                     break;
             }
 
@@ -118,11 +118,11 @@ namespace Quiz_Saving
 
         public static void AddNewSingleQuiz(int score)
         {
-            Console.WriteLine("Wie lautet die Frage?\n");
+            Console.WriteLine("Write your question\n");
             string userQuestion = Console.ReadLine();
-            Console.WriteLine("Wie lautet die Antworten?\n");
+            Console.WriteLine("Write answer/s\n");
             string userAnswers = Console.ReadLine();
-            Console.WriteLine("Welche Antwort ist die richtige?\n");
+            Console.WriteLine("Which answer is correct?\n");
             int userCorrect = int.Parse(Console.ReadLine());
             QuizSingle single = new QuizSingle();
             single.question = userQuestion;
@@ -134,54 +134,59 @@ namespace Quiz_Saving
 
         public static void AddNewMultipleQuiz(int score)
         {
-            Console.WriteLine("Wie lautet die Frage?\n");
+            Console.WriteLine("Write your question\n");
             string userQuestion = Console.ReadLine();
-            Console.WriteLine("Wie lautet die Antworten?\n");
+            Console.WriteLine("Write answer/s\n");
             string userAnswers = Console.ReadLine();
-            Console.WriteLine("Welche Antworten sind die richtigen?\n");
+            Console.WriteLine("Which answer is correct?\n");
             string userCorrect = Console.ReadLine();
             QuizMultiple multiple = new QuizMultiple();
             multiple.question = userQuestion;
             multiple.answers = userAnswers.Split(",");
             multiple.correct = userCorrect.Split(',');
             QuizMultiple.ShowQuestionAndCheckIfMultipleIsCorrect(multiple.question, multiple.answers, multiple.correct, score);
+            QuizMultiple.Serialize(userQuestion, userAnswers,userCorrect, score);
+
         }
 
         public static void AddNewBinaryQuiz(int score)
         {
-            Console.WriteLine("Wie lautet die Frage?\n");
+            Console.WriteLine("Write your question\n");
             string userQuestion = Console.ReadLine();
-            Console.WriteLine("Wie lautet die Antwort?\n");
+            Console.WriteLine("Write answer/s\n");
             string userAnswer = Console.ReadLine();
             QuizBinary binary = new QuizBinary();
             binary.question = userQuestion;
             binary.answer = userAnswer;
             QuizBinary.ShowQuestionAndCheckIfBinaryIsCorrect(binary.question, binary.answer, score);
+            QuizBinary.Serialize(userQuestion, userAnswer, score);
 
         }
 
         public static void AddNewGuessQuiz(int score)
         {
-            Console.WriteLine("Wie lautet die Frage?\n");
+            Console.WriteLine("Write your question?\n");
             string userQuestion = Console.ReadLine();
-            Console.WriteLine("Wie lautet die Antwort?\n");
+            Console.WriteLine("Write answer/s\n");
             int userAnswer = int.Parse(Console.ReadLine());
             QuizGuess guess = new QuizGuess();
             guess.question = userQuestion;
             guess.answer = userAnswer;
             QuizGuess.ShowQuestionAndCheckIfGuessIsCorrect(guess.question, guess.answer, score);
+            QuizGuess.Serialize(userQuestion, userAnswer, score);
         }
 
         public static void AddNewFreeQuiz(int score)
         {
-            Console.WriteLine("Wie lautet die Frage?\n");
+            Console.WriteLine("Write your question?\n");
             string userQuestion = Console.ReadLine();
-            Console.WriteLine("Wie lautet die Antwort?\n");
+            Console.WriteLine("Write answer/s\n");
             string userAnswer = Console.ReadLine();
             QuizFree free = new QuizFree();
             free.question = userQuestion;
             free.answer = userAnswer;
             QuizFree.ShowQuestionAndCheckIfFreeIsCorrect(free.question, free.answer, score);
+            QuizFree.Serialize(userQuestion, userAnswer, score);
         }
 
 
