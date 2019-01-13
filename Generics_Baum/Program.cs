@@ -26,7 +26,7 @@ namespace Generics_Baum
             grandChild1.AppendChild(grandGrandChild1);
             root.PrintTree(0);
             grandChild1.PrintAncestors();
-            root.ForEach()
+            root.ForEach();
 
 
             _Calculator Calc = new _Calculator();

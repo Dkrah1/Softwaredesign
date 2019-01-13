@@ -54,6 +54,12 @@ namespace Generics_Baum
             }
         }
 
+        public delegate void ForEach(int Func);
+s
+        public static void Func(Tree<T> _childNode)
+        {
+            Console.Write(_childNode + " | ");
+        }
 
         public void PrintAncestors()
         {
