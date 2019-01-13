@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/obj/Debug/netcoreapp2.1/Generics_Baum.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/obj/Debug/netcoreapp2.1/Generics_Baum.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/obj/Debug/netcoreapp2.1/Generics_Baum.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/obj/Debug/netcoreapp2.1/Generics_Baum.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/bin/Debug/netcoreapp2.1/Generics_Baum.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/bin/Debug/netcoreapp2.1/Generics_Baum.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/bin/Debug/netcoreapp2.1/Generics_Baum.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/bin/Debug/netcoreapp2.1/Generics_Baum.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/bin/Debug/netcoreapp2.1/Generics_Baum.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/obj/Debug/netcoreapp2.1/Generics_Baum.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/Generics_Baum/obj/Debug/netcoreapp2.1/Generics_Baum.pdb
