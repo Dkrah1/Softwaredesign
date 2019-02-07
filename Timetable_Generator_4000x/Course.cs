@@ -16,7 +16,7 @@ namespace Timetable_Generator_4000x
 
         public string courseContent;
 
-        public List<Equipment> equiptmentForCourse;
+        public List<string> equipmentForCourse;
 
         public List<CourseOfStudy> courseOfStudies;
 

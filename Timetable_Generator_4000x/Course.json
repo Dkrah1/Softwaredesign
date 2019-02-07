@@ -1,23 +1,24 @@
 [
     {
-    "courseName": "Mathe 1", 
-    "courseContent": "Alles über Medien",
-    "equipmentForCourse":
-    [ 
-        "Whiteboard",
-        "Kreidetafel"
-    ]
-
-    },
-
-    {
-        "courseName": "Mathe 2", 
-        "courseContent": "Mathe, also Mathesachen",
-        "equipmentForCourse":
-        [ 
+        "courseName": "Mathe 1",
+        "courseContent": "Alles über Medien",
+        "equipmentForCourse": [
+            "Computer",
             "Whiteboard",
-            "Kreidetafel"
+            "Kreidetafel",
+            "Ansteigend",
+            "Laborausstattung"
         ]
-    
-        }
+    },
+    {
+        "courseName": "Mathe 2",
+        "courseContent": "Mathe, also Mathesachen",
+        "equipmentForCourse": [
+            "Computer",
+            "Whiteboard",
+            "Kreidetafel",
+            "Ansteigend",
+            "Laborausstattung"
+        ]
+    }
 ]

@@ -7,8 +7,7 @@ namespace Timetable_Generator_4000x
     {
         public string roomName;
         public int numberOfSeats;
-
-        public List <Equipment> equipment;
+        public List <string> equipment;
 
     }
     

@@ -1,15 +1,24 @@
 using System;
+using System.Collections.Generic;
 using Newtonsoft.Json;
 
 namespace Timetable_Generator_4000x
 {
     class TimeBlock
     {
-        DateTime start;
-        DateTime end;
-        TimeBlockNumber number;
+        public TimeSpan time;
+        public int number;
+        public List<Course> course;
 
-        Course course;
+        public DayEnum day;
+
+
+        public TimeBlock(TimeSpan time, int number, DayEnum day)
+        {
+            this.time = time;
+            this.number = number;
+            this.day = day;
+        }
 
     }
 }
