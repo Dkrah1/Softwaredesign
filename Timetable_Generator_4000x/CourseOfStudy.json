@@ -1,0 +1,23 @@
+[
+    {
+        "studyProgramName": "MIB_1",
+        "numberOfStudents": "40",
+        "semester": "1",
+        "coursesToVisit":
+        [
+            "Mathe 1", 
+            "Physik",
+            "Videotechnik"
+        ]
+    },
+    {
+        "studyProgramName": "MIB_2",
+        "numberOfStudents": "32",
+        "semester": "2",
+        "coursesToVisit":
+        [
+            "Mathe 2"   
+        ]
+
+    }
+]

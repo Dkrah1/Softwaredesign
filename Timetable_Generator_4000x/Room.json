@@ -1,0 +1,21 @@
+[
+  {
+      "roomName": "I0.17",
+      "numberOfSeats": "125",
+      "equipment":
+      [
+          "Computer",
+          "Kreidetafel",
+          "Ansteigend"
+      ]
+  },
+  {
+    "roomName": "I0.18",
+    "numberOfSeats": "120",
+    "equipment":
+    [
+        "Kreidetafel",
+        "Ansteigend"
+    ]
+  }  
+]

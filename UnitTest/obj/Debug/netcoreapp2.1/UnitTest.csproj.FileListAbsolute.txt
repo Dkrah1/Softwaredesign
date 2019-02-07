@@ -1,0 +1,11 @@
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.deps.json
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.runtimeconfig.json
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.runtimeconfig.dev.json
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/bin/Debug/netcoreapp2.1/UnitTest.pdb
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.csprojAssemblyReference.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.csproj.CoreCompileInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.AssemblyInfoInputs.cache
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.AssemblyInfo.cs
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.dll
+/Users/Dome/Documents/GitHub/Softwaredesign/UnitTest/obj/Debug/netcoreapp2.1/UnitTest.pdb

@@ -1,0 +1,23 @@
+[
+    {
+    "courseName": "Mathe 1", 
+    "courseContent": "Alles über Medien",
+    "equipmentForCourse":
+    [ 
+        "Whiteboard",
+        "Kreidetafel"
+    ]
+
+    },
+
+    {
+        "courseName": "Mathe 2", 
+        "courseContent": "Mathe, also Mathesachen",
+        "equipmentForCourse":
+        [ 
+            "Whiteboard",
+            "Kreidetafel"
+        ]
+    
+        }
+]
